@@ -8,6 +8,7 @@ se entienda lo que queremos en el producto final.
 
 - Node.js (se utilizo v20.14.0)
 - npm (se utilizo v10.7.0)
+- jest (es necesario para el test)
 
 ## Instalación
 
@@ -15,3 +16,8 @@ se entienda lo que queremos en el producto final.
 
    bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
+
+2. con el comando "npm test" ejecutas los test que tiene el codigo,
+   se ejecutaran correctamente si tienes el jest instalado
+
+con todo esto deberia estar sin ningun problema el codigo
